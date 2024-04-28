@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.brick_breaker"
+    namespace = "com.example.brick_braker_v_2"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.brick_breaker"
+        applicationId = "com.example.brick_braker_v_2"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

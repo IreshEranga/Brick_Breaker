@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Brick_Breaker"
+rootProject.name = "Brick_Braker_V_2"
 include(":app")
  
